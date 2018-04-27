@@ -2,21 +2,21 @@
   "name": "simple-nodejs-weather-app",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bmorelli25/simple-nodejs-weather-app.git"
+    "url": "git+https://github.com/alloygodwin1/weatherapp.git"
   },
   "author": "brandon morelli",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bmorelli25/simple-nodejs-weather-app/issues"
+    "url": "https://github.com/alloygodwin1/weatherapp/issues"
   },
-  "homepage": "https://github.com/bmorelli25/simple-nodejs-weather-app#readme",
+  "homepage": "https://github.com/alloygodwin1/weatherapp#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "express": "^4.15.3",
