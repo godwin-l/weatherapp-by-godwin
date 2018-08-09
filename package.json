@@ -1,5 +1,5 @@
 {
-  "name": "simple-nodejs-weather-app",
+  "name": "weather-app-by-godwin",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/alloygodwin1/weatherapp.git"
   },
-  "author": "brandon morelli",
+  "author": "godwin",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/alloygodwin1/weatherapp/issues"
