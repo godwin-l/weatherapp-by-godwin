@@ -46,6 +46,5 @@ app.post('/', function (req, res) {
     }
   });
 })
-http.listen(process.env.PORT || 3000, function(){
-  console.log('listening on', http.address().port);
-});
+app.listen(5000);
+ console.log('listening on 5000');
